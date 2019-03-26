@@ -1,0 +1,240 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"o",
+				"myOceanPic"
+			],
+			[
+				"list-s",
+				"list-style-type\tproperty"
+			],
+			[
+				"nlb",
+				"nl2br"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"response",
+				"responseText"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"ANF: New File"
+			],
+			[
+				"restart",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"rename file",
+				"Rename File"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/projects/myPortfolio/index.html",
+		"/C/xampp/htdocs/projects/myPortfolio/css/styles.css",
+		"/C/xampp/htdocs/projects/usermanagement/scripts/database.php",
+		"/C/Users/Donna/OneDrive/Desktop/images/donna.jpg",
+		"/C/Users/Donna/OneDrive/Desktop/officeb1.jpg",
+		"/D/Hello World Images/Business Images/tech1.jpg",
+		"/D/Hello World Images/Misc Tech Images/cloud-computing-concept-background_gg64513890.jpg",
+		"/D/Hello World Images/Business Images/business1.jpg",
+		"/D/Hello World Images/Business Images/TDA-Upcoming-121-571x221.jpg",
+		"/D/Hello World Images/Business Images/office-620822-1920-1024x415.jpg",
+		"/D/Hello World Images/Business Images/thumbsUp.jpg",
+		"/C/Users/Donna/OneDrive/Desktop/bubbles 1.jpg",
+		"/C/xampp/htdocs/projects/myPortfolio/myPortfolio/resume.html",
+		"/C/xampp/htdocs/projects/myPortfolio/myPortfolio/home.html",
+		"/C/xampp/htdocs/projects/myPortfolio/myPortfolio/portfolio",
+		"/C/xampp/htdocs/projects/myPortfolio/myPortfolio/contact",
+		"/C/xampp/htdocs/projects/myPortfolio/myPortfolio/resume",
+		"/C/xampp/htdocs/projects/myPortfolio/myPortfolio/about",
+		"/D/Photos for WebDev Class/myOceanPic.jpg",
+		"/C/xampp/htdocs/projects/firstJavaScriptProject/!",
+		"/C/Users/Donna/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/xampp/htdocs/projects/diceRoll/index.js",
+		"/C/xampp/htdocs/projects/domIntro/index.js",
+		"/C/xampp/htdocs/projects/domIntro/index.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 178.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
